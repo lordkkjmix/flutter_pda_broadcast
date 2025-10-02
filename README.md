@@ -20,7 +20,7 @@ Ajoutez le package à votre `pubspec.yaml` :
 
 ```yaml
 dependencies:
-  kingtop_scanner:
+  flutter_pda_broadcast:
     git:
       url: https://github.com/kingcortex/flutter_pda_broadcast.git
     # ou en local:
