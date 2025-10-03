@@ -23,6 +23,7 @@ dependencies:
   flutter_pda_broadcast:
     git:
       url: https://github.com/kingcortex/flutter_pda_broadcast.git
+      ref: main
     # ou en local:
     # path: ../flutter_pda_broadcast
 ```
